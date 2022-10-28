@@ -1,0 +1,32 @@
+.food-container {
+  height: 100vh;
+  background-color: beige;
+  display: flex;
+  flex-direction: column;
+}
+
+.head-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 1%;
+}
+.head1 {
+  font-weight: bold;
+}
+.card-ul {
+  height: 80vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  overflow: auto;
+}
+
+.card-li {
+  margin-left: 1%;
+  list-style-type: none;
+  margin-bottom: 1%;
+}
+
+.multi-button {
+  margin-right: 1rem;
+}

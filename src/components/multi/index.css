@@ -1,0 +1,12 @@
+.multi-container {
+  height: 100vh;
+  background-color: beige;
+  padding: 2%;
+  overflow: auto;
+}
+
+.multi-image {
+  width: 18rem;
+  height: 15rem;
+  margin: 1%;
+}
